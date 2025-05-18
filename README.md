@@ -32,24 +32,6 @@ CropIntelAI is a machine learning-based decision support system that leverages s
 
 ---
 
-## 📂 Project Structure
-```
-CropIntelAI/
-├── data/ # Raw and processed dataset files
-│ ├── raw/ # Original, unprocessed data
-│ └── processed/ # Cleaned and ready-to-use data
-├── notebooks/ # Jupyter notebooks for exploration and model training
-│ └── exploration.ipynb # Data exploration and preprocessing
-├── src/ # Source code for models, utilities, and logic
-│ ├── init.py # Makes src a Python package
-│ ├── model.py # Machine learning model (training and inference)
-│ ├── recommender.py # Crop and fertilizer recommendation logic
-│ └── utils.py # Utility functions (e.g., data cleaning, helpers)
-├── requirements.txt # Python dependencies for the project
-├── LICENSE # Project license (MIT)
-├── README.md # Project documentation (this file)
-└── .gitignore # Git ignore rules (e.g., for virtual environments)
-```
 
 ## 🌾 Applications
 
